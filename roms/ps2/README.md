@@ -13,7 +13,7 @@ sudo apt install mame-tools
 Execute `./iso-to-chd.sh`.
 
 ```bash
-$ ./run-chdman.sh
+$ ./iso-to-chd.sh
 chdman - MAME Compressed Hunks of Data (CHD) manager 0.264 (unknown)
 Output CHD:   ./Sly 2 - Band of Thieves (USA).iso.chd
 Input file:   ./Sly 2 - Band of Thieves (USA).iso
